@@ -12,7 +12,7 @@ Borderlands
 This game is about...
 This game is about... this should be at least 3-4 paragraphs summarising the gameplay mechanics of the game. You should be answering the who, what, when, where, why, and how of the game itself.
 
-#Borderlands is a first person RPG shooter with an cartoon art style. 
+Borderlands is a first person RPG shooter with an cartoon art style. 
 
 
 ## Final Thoughts
